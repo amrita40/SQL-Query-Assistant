@@ -12,6 +12,11 @@ A Natural Language to SQL translator powered by LangChain and OpenRouter. Ask yo
 - Uses LangChain and OpenRouter API for flexibility
 
 ---
+## 🖼️ Demo Screenshot
+
+> ✨ Here's what it looks like in action:
+
+![Demo Screenshot](assets/demo.png)
 
 ## 🛠️ Tech Stack
 
