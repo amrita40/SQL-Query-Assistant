@@ -17,6 +17,7 @@ A Natural Language to SQL translator powered by LangChain and OpenRouter. Ask yo
 > ✨ Here's what it looks like in action:
 
 ![Demo Screenshot](https://github.com/amrita40/SQL-Query-Assistant/blob/main/Screenshot%202025-06-23%20101455.png)
+![Demo Screenshot](https://github.com/amrita40/SQL-Query-Assistant/blob/main/Screenshot%202025-06-23%20101532.png)
 
 ## 🛠️ Tech Stack
 
